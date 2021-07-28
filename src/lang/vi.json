@@ -1,0 +1,14 @@
+{
+  "errors": {
+    "title": "Lỗi",
+    "internal_server": "Lỗi hệ thống!",
+    "bad_gateway": "Hệ thống đang bảo trì!",
+    "gateway_timeout": "Không thể truy cập đến máy chủ!"
+  },
+  "form": {
+    "validator": {
+      "required": "%{field} không được để trống.",
+      "invalid": "%{field} không hợp lệ."
+    }
+  }
+}

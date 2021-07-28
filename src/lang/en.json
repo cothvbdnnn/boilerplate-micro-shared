@@ -1,0 +1,14 @@
+{
+  "errors": {
+    "title": "Error",
+    "internal_server": "",
+    "bad_gateway": "",
+    "gateway_timeout": ""
+  },
+  "form": {
+    "validator": {
+      "required": "",
+      "invalid": ""
+    }
+  }
+}
